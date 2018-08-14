@@ -1,15 +1,15 @@
 example_id                   | status | run_time        |
 ---------------------------- | ------ | --------------- |
-./spec/coffee_spec.rb[1:1]   | passed | 0.00061 seconds |
-./spec/coffee_spec.rb[1:2:1] | passed | 0.00013 seconds |
-./spec/coffee_spec.rb[1:2:2] | passed | 0.0007 seconds  |
-./spec/coffee_spec.rb[1:2:3] | passed | 0.00163 seconds |
-./spec/sandwich_spec.rb[1:1] | passed | 0.00011 seconds |
+./spec/coffee_spec.rb[1:1]   | passed | 0.00059 seconds |
+./spec/coffee_spec.rb[1:2:1] | passed | 0.00014 seconds |
+./spec/coffee_spec.rb[1:2:2] | passed | 0.00071 seconds |
+./spec/coffee_spec.rb[1:2:3] | passed | 0.00164 seconds |
+./spec/sandwich_spec.rb[1:1] | passed | 0.00012 seconds |
 ./spec/sandwich_spec.rb[1:2] | passed | 0.00014 seconds |
-./spec/slow_spec.rb[1:1]     | passed | 0.10035 seconds |
-./spec/slow_spec.rb[1:2]     | passed | 0.20033 seconds |
-./spec/slow_spec.rb[1:3]     | passed | 0.30032 seconds |
-./spec/slow_spec.rb[1:4]     | passed | 0.40036 seconds |
-./spec/slow_spec.rb[1:5]     | passed | 0.50049 seconds |
-./spec/tea_spec.rb[1:1]      | passed | 0.00079 seconds |
-./spec/tea_spec.rb[1:2]      | passed | 0.00075 seconds |
+./spec/slow_spec.rb[1:1]     | passed | 0.10031 seconds |
+./spec/slow_spec.rb[1:2]     | passed | 0.20034 seconds |
+./spec/slow_spec.rb[1:3]     | passed | 0.30034 seconds |
+./spec/slow_spec.rb[1:4]     | passed | 0.40044 seconds |
+./spec/slow_spec.rb[1:5]     | passed | 0.5004 seconds  |
+./spec/tea_spec.rb[1:1]      | passed | 0.00015 seconds |
+./spec/tea_spec.rb[1:2]      | passed | 0.0001 seconds  |

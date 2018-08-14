@@ -4,7 +4,7 @@ class Tea
   end
 
   def temperature
-    +200.0
+    + 200.0
   end
 end
 
@@ -18,6 +18,6 @@ RSpec.describe Tea do
     expect(tea.flavor).to be :earl_grey
   end
   it 'is hot' do
-    expect(tea.temperature).to be > 200.0
+    expect(tea.temperature).to be >= 200.0
   end
 end    
